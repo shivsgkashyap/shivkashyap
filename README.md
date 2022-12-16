@@ -1,8 +1,16 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Shiv and I'm a Full Stack Developer who loves to work with web technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Shiv and I'm a Full Stack Developer who loves to work with web technologies 🤓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems ✨. 
+    
 </div>
+
+### Talking about Personal Stuff:
+- 🛠 &nbsp; I’m currently working with React, Nodejs, Express, Mongodb (MERN Stack), Javascript, CSS, HTML etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivsgkashyap).
+- 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
+- 📫 &nbsp; How to reach me: ssgkashyap@outlook.com
 
 # 🔧 Technologies & Tools
 
