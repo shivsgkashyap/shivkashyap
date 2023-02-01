@@ -123,8 +123,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-        width="72"
-        height="72"
+        width="50"
+        height="50"
         alt="styled-components"
       />
       <br /><strong>styled-components</strong>
