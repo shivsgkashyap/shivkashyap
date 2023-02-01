@@ -120,11 +120,11 @@
       />
       <br /><strong>TailwindCSS</strong>
     </td>
-    <td align="left" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-        width="48"
-        height="48"
+        width="55"
+        height="55"
         alt="styled-components"
       />
       <br /><strong>styled-components</strong>
