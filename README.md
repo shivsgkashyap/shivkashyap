@@ -124,7 +124,7 @@
       <img
         src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
         width="72"
-        height="48"
+        height="72"
         alt="styled-components"
       />
       <br /><strong>styled-components</strong>
