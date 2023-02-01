@@ -7,7 +7,7 @@
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with React, Nodejs, Express, MongoDB (MERN Stack).
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; [CLICK HERE](https://shivkashyap.com) to view my personal website.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivsgkashyap).
 - 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
 - 📫 &nbsp; How to reach me: ssgkashyap@outlook.com
@@ -62,15 +62,6 @@
       />
       <br /><strong>Redux</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="TailwindCSS"
-      />
-      <br /><strong>TailwindCSS</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -118,14 +109,52 @@
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+    <tr>
+     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="TailwindCSS"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>TailwindCSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
+        width="48"
+        height="48"
+        alt="styled-components"
+      />
+      <br /><strong>styled-components</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"
+        width="48"
+        height="48"
+        alt="Sanity.io"
+      />
+      <br /><strong>Sanity.io</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvitejs.dev%2F&psig=AOvVaw3oawtSnec0iYYT_ySV6old&ust=1675350246538000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDutJTM9PwCFQAAAAAdAAAAABAE"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
     </td>
   </tr>
 </table>
