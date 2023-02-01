@@ -149,7 +149,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvitejs.dev%2F&psig=AOvVaw3oawtSnec0iYYT_ySV6old&ust=1675350246538000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDutJTM9PwCFQAAAAAdAAAAABAE"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png"
         width="48"
         height="48"
         alt="Vite"
