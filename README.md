@@ -1,19 +1,21 @@
-# 👋 &nbsp; Hey there
----
+<h1 align="center">Hey there 👋, I'm Shiv</h1>
 
 <div align="justify">
-    My name is Shiv and I'm a Full Stack Developer who loves to work with web technologies 🤓. I'm a passionate learner and I'm always looking to challenge myself. I'm keen to work across all technologies and domains 💡. Right now my mind is focused on learning everything that is related to Web Development. I'm always exploring new technologies which I can leverage to solve real-life problems ✨. 
-    
+    Full Stack Developer who loves to work with web technologies 🤓. I'm a passionate learner and I'm always looking to challenge myself. I'm keen to work across all technologies and domains 💡. Right now my mind is focused on learning everything that is related to Web Development. I'm always exploring new technologies which I can leverage to solve real-life problems ✨. 
 </div>
 
-### Talking about Personal Stuff:
+<br>
+
 - 🛠 &nbsp; I’m currently working with React, Nodejs, Express, MongoDB (MERN Stack).
 - 🚀 &nbsp; [CLICK HERE](https://shivkashyap.com) to view my personal website.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivsgkashyap).
 - 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
 - 📫 &nbsp; How to reach me: ssgkashyap@outlook.com
+- 💞️ &nbsp; Looking to collaborate on anything relating to web dev.
+    
+<h3 align="justify">🔧 Technologies & Tools</h3>
 
-# 🔧 Technologies & Tools
+---
 
 <table>
   <tr>
@@ -159,5 +161,7 @@
     </td>
   </tr>
 </table>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivsgkashyap&show_icons=true&locale=en&layout=compact" alt="shivsgkashyap" /></p>
