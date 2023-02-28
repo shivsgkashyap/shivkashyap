@@ -8,7 +8,7 @@
 
 - 🛠 &nbsp; I’m currently working with React, Nodejs, Express, MongoDB (MERN Stack).
 - 🚀 &nbsp; [CLICK HERE](https://shivkashyap.com) to view my personal website.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivsgkashyap).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shivsgkashyap?tab=repositories).
 - 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
 - 📫 &nbsp; How to reach me: ssgkashyap@outlook.com
 - 💞️ &nbsp; Looking to collaborate on anything relating to web dev.
