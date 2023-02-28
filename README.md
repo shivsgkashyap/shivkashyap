@@ -6,7 +6,7 @@
 
 <br>
 
-- 🛠 &nbsp; I’m currently working with React, Nodejs, Express, MongoDB (MERN Stack).
+- 🛠 &nbsp; I’m currently working with React, Node.js, Express & MongoDB (MERN Stack).
 - 🚀 &nbsp; [CLICK HERE](https://shivkashyap.com) to view my personal website.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shivsgkashyap?tab=repositories).
 - 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
