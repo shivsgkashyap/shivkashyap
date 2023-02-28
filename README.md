@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Shiv</h1>
+<h1 align="center">👋 Hey there, I'm Shiv</h1>
 
 <div align="justify">
     Full Stack Developer who loves to work with web technologies 🤓. I'm a passionate learner and I'm always looking to challenge myself. I'm keen to work across all technologies and domains 💡. Right now my mind is focused on learning everything that is related to Web Development. I'm always exploring new technologies which I can leverage to solve real-life problems ✨. 
