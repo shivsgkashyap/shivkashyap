@@ -3,15 +3,6 @@
 <div align="justify">
     Full Stack Developer who loves to work with web technologies 🤓. I'm a lifelong learner and I'm always looking to challenge myself. I was originally drawn to software development through a keen curiosity to understand how modern tech works, which led me to pivot my career and pursue software development. I've discovered a deep passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development 💡. I'm always exploring new technologies and tools which I can leverage to solve real-life problems ✨. 
 </div>
-
-<br>
-
-- 🛠 &nbsp; I’m currently enjoying working with Next.js, React, TypeScript, TailwindCSS & Node.js.
-- 🚀 &nbsp; [CLICK HERE](https://shivkashyap.com) to view my personal website.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shivsgkashyap?tab=repositories).
-- 👾 &nbsp; You want to hear a JavaScript joke? I'll callback later!
-- 📫 &nbsp; How to reach me: ssgkashyap@outlook.com
-- 💞️ &nbsp; Looking to collaborate on anything relating to web dev.
     
 <h3 align="justify">🔧 Technologies & Tools</h3>
 
